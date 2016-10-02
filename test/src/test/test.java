@@ -17,6 +17,14 @@ public class test {
 		System.out.println("깃 허브 연동 테스트입니다.");
 		System.out.println("깃 허브 연동 테스트입니다.");
 		System.out.println("깃 허브 연동 테스트입니다.");
+		System.out.println("깃 허브 연동 테스트입니다.");
+		System.out.println("깃 허브 연동 테스트입니다.");
+		System.out.println("깃 허브 연동 테스트입니다.");
+		System.out.println("깃 허브 연동 테스트입니다.");
+		System.out.println("깃 허브 연동 테스트입니다.");
+		System.out.println("깃 허브 연동 테스트입니다.");
+		
+		
 		
 	}
 
